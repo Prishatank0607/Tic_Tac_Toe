@@ -15,8 +15,8 @@ Tic_Tac_Toe is a multiplayer Tic-tac-toe game implemented in Python, featuring S
 ## How to Play
 1. Clone the repository: `git clone https://github.com/Prishatank0607/Tic_Tac_Toe`
 2. Navigate to the project directory: `cd Tic_Tac_Toe`
-3. Run the server: `python server.py`
-4. Run two clients for player 1 and player 2: `python client.py` (Run this command in two separate terminals or machines)
+3. Run the server: `server.py`
+4. Run two clients for player 1 and player 2: `client.py` (Run this command in two separate terminals or machines)
 5. Enjoy playing Tic-tac-toe with your friends over the network!
 
 ## Dependencies
